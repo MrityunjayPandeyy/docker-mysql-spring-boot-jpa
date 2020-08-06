@@ -1,0 +1,5 @@
+com\docker\sample\resource\Resource.class
+com\docker\sample\resource\Users.class
+com\docker\sample\SpringDataJpaHibernateExampleApplication.class
+com\docker\sample\resource\UserRepository.class
+com\docker\sample\Config.class
